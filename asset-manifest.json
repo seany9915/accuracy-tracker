@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/accuracy-tracker/static/css/main.e8601c09.css",
+    "main.js": "/accuracy-tracker/static/js/main.a86e13f9.js",
+    "index.html": "/accuracy-tracker/index.html",
+    "main.e8601c09.css.map": "/accuracy-tracker/static/css/main.e8601c09.css.map",
+    "main.a86e13f9.js.map": "/accuracy-tracker/static/js/main.a86e13f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8601c09.css",
+    "static/js/main.a86e13f9.js"
+  ]
+}
