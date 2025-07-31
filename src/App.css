@@ -1,0 +1,70 @@
+.app {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 2rem;
+  background-color: #f5f5f5;
+}
+
+.client-input {
+  margin-bottom: 1rem;
+}
+
+.client-input input {
+  padding: 0.5rem;
+  font-size: 1rem;
+  margin-left: 0.5rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.counter-section {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  max-width: 400px;
+  margin: auto;
+}
+
+.buttons {
+  margin: 1rem 0;
+}
+
+button {
+  font-size: 1.1rem;              /* Slightly larger text */
+  padding: 1rem 1.8rem;           /* More space for fingers */
+  min-height: 48px;               /* Recommended minimum for touch targets */
+  margin: 0.5rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  touch-action: manipulation;     /* Improves responsiveness on mobile */
+}
+
+.correct {
+  background-color: #4caf50;
+  color: white;
+}
+
+.incorrect {
+  background-color: #f44336;
+  color: white;
+}
+
+.reset {
+  background-color: #2196f3;
+  color: white;
+  margin-top: 1rem;
+}
+
+.export {
+  background-color: #ff9800;
+  color: white;
+  margin-top: 1rem;
+}
+
+.stats {
+  font-size: 1.2rem;
+  margin-top: 1rem;
+}
+
